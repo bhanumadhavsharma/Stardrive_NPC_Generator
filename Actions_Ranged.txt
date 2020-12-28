@@ -1,0 +1,27 @@
+Pistol; Ranged Weapon Attack, 
+to hit. Hit: (1d6 
+) piercing damage. Range(40/120). Reload 8.
+Plasma Pistol; Ranged Weapon Attack, 
+to hit. Hit: (1d6 
+ - 1) radiation damage. Range(40/120). Overheat 15(5).
+Revolver; Ranged Weapon Attack, 
+to hit. Hit: (1d8 
+) piercing damage. Range(40/120). Reload 6.
+Freeze Ray; Ranged Weapon Attack, 
+to hit. Hit: (1d6 
+ - 1) cryonic damage. Range(30/90). Reload 6.
+Disintegration Beam; Ranged Weapon Attack, 
+to hit. Hit: (1d4 
+ - 1) necrotic damage. Range(30/90). Overheat 10(4). Rot.
+Grenade; Ranged Weapon Attack, 
+to hit. Hit: (2d6 
+) piercing damage. Range(10/30).
+Grenade; Ranged Weapon Attack, 
+to hit. Hit: (2d6 
+) piercing damage. Range(10/30).
+Rifle; Ranged Weapon Attack, 
+to hit. Hit: (1d10 
+) piercing damage. Range(150/500). Reload 6.
+Plasma Rifle; Ranged Weapon Attack, 
+to hit. Hit: (1d10 
+ - 2) radiation damage. Range(150/500).

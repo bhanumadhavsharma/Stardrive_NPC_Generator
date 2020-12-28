@@ -1,0 +1,16 @@
+Dive Attack - If the enemy is flying and dives 30 ft straight towards a target and then hits it with a melee attack, the attack deals an extra 12(3d6) damage.
+Ionic Shield - The enemy has an ionic shield with 15 hp, where the shield always takes damage until it gets to 0, upon which the enemy takes damage.
+Amphibious - The enemy can breathe air and water.
+Probing Telepathy - If you communicate with the enemy telepathically, the enemy can now see your deepest desire (if you are visible).
+Fear of Fire - If the enemy takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
+Infrared - The enemy has advantage on Perception (Wisdom) checks that rely on sight or heat.
+Snow Camouflage - The enemy has advantage on Stealth (Dexterity) checks made in snowy terrain.
+Desert Camouflage - The enemy has advantage on Stealth (Dexterity) checks made in desert terrain.
+Jungle Camouflage - The enemy has advantage on Stealth (Dexterity) checks made in jungle terrain.
+Urban Camouflage - The enemy has advantage on Stealth (Dexterity) checks made in urban terrain.
+Pack Tactics - The enemy has advantage on an attack roll against a target if at least one of its allies is within 5 ft of the target and the ally isn't incapacitated.
+Dwarven Resilience - The enemy has advantage on saving throws against poison.
+Strong Lungs - The enemy can hold their breath underwater or in space for an extra 18 seconds (3 rounds) before succumbing to the effects.
+Prone - If the enemy goes prone and holds their action for 1 turn, they have advantage on their next ranged attack roll.
+Slide - If the enemy slides into an enemy (and remains prone afterwards), they have advantage on that melee attack roll.
+Multiattack - The enemy can make two attacks.

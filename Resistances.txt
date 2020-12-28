@@ -1,0 +1,13 @@
+Slashing
+Piercing
+Bludgeoning
+Force
+Poison
+Acid
+Psychic
+Heat
+Cryonic
+Electric
+Concussion
+Radiation
+Rot

@@ -1,0 +1,24 @@
+1Axe; Melee Weapon Attack, 
+to hit. Hit: (1d6 
+) slashing damage. Range(20/60)
+Knife; Melee Weapon Attack, 
+to hit. Hit: (1d4 
+) slashing damage. Range(20/60)
+Staff; Melee Weapon Attack, 
+to hit. Hit: (1d6 
+) Bludgeoning damage. Reach.Versatile.
+Ion Disk; Melee Weapon Attack, 
+to hit. Hit: (1d6 
+) electric damage. Range(20/60)
+Ion Disk; Melee Weapon Attack, 
+to hit. Hit: (1d6 
+) electric damage. Range(20/60)
+Greatsword; Melee Weapon Attack, 
+to hit. Hit: (2d6 
+) slashing damage. Two Handed.
+Heavy Axe; Melee Weapon Attack, 
+to hit. Hit: (1d12 
+) slashing damage. Two Handed.
+Ion Sword; Melee Weapon Attack, 
+to hit. Hit: (1d8 
+) heat damage. Seige.Versatile.
